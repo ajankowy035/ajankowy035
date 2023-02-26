@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agnieszka Jankowy
-- 👀 I’m interested in coding (love JS) and UX-design
-- 🌱 I’m currently learning TS, NestJs and Jest
+- 👀 I’m interested in coding (love TS).
+- 🌱 I’m currently learning AWS
 
 - 📫 Write to me on a.jankowy035@gmail.com!
 
